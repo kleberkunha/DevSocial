@@ -31,3 +31,4 @@ class Usuario extends Model {
 
 }
 ```
+...
